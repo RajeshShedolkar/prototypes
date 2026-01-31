@@ -14,4 +14,4 @@
 Excercise:
  - Implement a simple connection pool using bounded Blocking Queue
  - make it threadsafe
- - 
+  
