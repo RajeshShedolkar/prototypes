@@ -1,0 +1,10 @@
+# OAuth 2.0 Functional Prototype Requirements
+#
+# Core runtime:
+# Zero external dependencies required!
+# The core library and prototype web app run purely on Python 3.9+ standard library.
+#
+# Optional enhancements for development or deployment:
+# python-dotenv>=1.0.0
+# requests>=2.31.0
+
